@@ -4,7 +4,7 @@
 
 #   def initialize(name, artist, genre)
 #     @name, @artist, @genre = name, artist, genre
-#     @@all << self
+#     self.class.all << self
 #   end
 
 #   def self.all
