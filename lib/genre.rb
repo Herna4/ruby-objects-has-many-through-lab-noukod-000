@@ -19,7 +19,7 @@ class Genre
     end
   end
 end
-  24  lib/patient.rb 
+  
 
 # class Genre
 #   attr_accessor :name
